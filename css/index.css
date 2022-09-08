@@ -231,7 +231,7 @@ header {
 }
 
 #landing_page {
-  background-image: url("images/landing page.jpg");
+  background-image: url("../images/landing page.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
